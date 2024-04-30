@@ -1,0 +1,28 @@
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\Entities\bin\Debug\net6.0\Entities.deps.json
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\Entities\bin\Debug\net6.0\Entities.dll
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\Entities\bin\Debug\net6.0\Entities.pdb
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\Entities\obj\Debug\net6.0\Entities.dll
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\Entities\obj\Debug\net6.0\refint\Entities.dll
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\Entities\obj\Debug\net6.0\Entities.pdb
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\Entities\obj\Debug\net6.0\ref\Entities.dll
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\Entities\bin\Debug\net6.0\Entities.deps.json
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\Entities\bin\Debug\net6.0\Entities.dll
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\Entities\bin\Debug\net6.0\Entities.pdb
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\Entities\obj\Debug\net6.0\Entities.dll
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\Entities\obj\Debug\net6.0\refint\Entities.dll
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\Entities\obj\Debug\net6.0\Entities.pdb
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\Entities\obj\Debug\net6.0\ref\Entities.dll

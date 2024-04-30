@@ -1,0 +1,54 @@
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\DEMOFIXED\SchoolLibrary\bin\Debug\net6.0\SchoolLibrary.deps.json
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\DEMOFIXED\SchoolLibrary\bin\Debug\net6.0\SchoolLibrary.dll
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\DEMOFIXED\SchoolLibrary\bin\Debug\net6.0\SchoolLibrary.pdb
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\DEMOFIXED\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.csproj.AssemblyReference.cache
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\DEMOFIXED\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\DEMOFIXED\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.AssemblyInfoInputs.cache
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\DEMOFIXED\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.AssemblyInfo.cs
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\DEMOFIXED\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.csproj.CoreCompileInputs.cache
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\DEMOFIXED\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.dll
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\DEMOFIXED\SchoolLibrary\obj\Debug\net6.0\refint\SchoolLibrary.dll
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\DEMOFIXED\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.pdb
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\DEMOFIXED\SchoolLibrary\obj\Debug\net6.0\ref\SchoolLibrary.dll
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\SchoolLibrary\bin\Debug\net6.0\SchoolLibrary.deps.json
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\SchoolLibrary\bin\Debug\net6.0\SchoolLibrary.dll
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\SchoolLibrary\bin\Debug\net6.0\SchoolLibrary.pdb
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\SchoolLibrary\bin\Debug\net6.0\Contracts.dll
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\SchoolLibrary\bin\Debug\net6.0\Entities.dll
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\SchoolLibrary\bin\Debug\net6.0\LoggerService.dll
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\SchoolLibrary\bin\Debug\net6.0\Repository.dll
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\SchoolLibrary\bin\Debug\net6.0\LoggerService.pdb
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\SchoolLibrary\bin\Debug\net6.0\Repository.pdb
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\SchoolLibrary\bin\Debug\net6.0\Contracts.pdb
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\SchoolLibrary\bin\Debug\net6.0\Entities.pdb
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.csproj.AssemblyReference.cache
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.AssemblyInfoInputs.cache
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.AssemblyInfo.cs
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.csproj.CoreCompileInputs.cache
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.csproj.CopyComplete
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.dll
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\SchoolLibrary\obj\Debug\net6.0\refint\SchoolLibrary.dll
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.pdb
+F:\Ready to use\Entanglement\Job\cv\CANDIDATE EMPLOYER\UNDER STUDY\Analyticalways\FEEDBACK\LAB\SchoolLibrary\obj\Debug\net6.0\ref\SchoolLibrary.dll
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\SchoolLibrary\bin\Debug\net6.0\SchoolLibrary.deps.json
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\SchoolLibrary\bin\Debug\net6.0\SchoolLibrary.dll
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\SchoolLibrary\bin\Debug\net6.0\SchoolLibrary.pdb
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\SchoolLibrary\bin\Debug\net6.0\Contracts.dll
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\SchoolLibrary\bin\Debug\net6.0\Entities.dll
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\SchoolLibrary\bin\Debug\net6.0\LoggerService.dll
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\SchoolLibrary\bin\Debug\net6.0\Repository.dll
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\SchoolLibrary\bin\Debug\net6.0\LoggerService.pdb
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\SchoolLibrary\bin\Debug\net6.0\Repository.pdb
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\SchoolLibrary\bin\Debug\net6.0\Contracts.pdb
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\SchoolLibrary\bin\Debug\net6.0\Entities.pdb
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.csproj.AssemblyReference.cache
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.AssemblyInfoInputs.cache
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.AssemblyInfo.cs
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.csproj.CoreCompileInputs.cache
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.csproj.CopyComplete
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.dll
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\SchoolLibrary\obj\Debug\net6.0\refint\SchoolLibrary.dll
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\SchoolLibrary\obj\Debug\net6.0\SchoolLibrary.pdb
+F:\Ready to use\GITMS\Xunit_NCore6_Repo\SchoolLibrary\obj\Debug\net6.0\ref\SchoolLibrary.dll
